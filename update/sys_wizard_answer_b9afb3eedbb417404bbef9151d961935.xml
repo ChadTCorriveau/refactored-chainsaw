@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Instance of banner</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Instance of banner</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">957e6752db3103004bbef9151d96197c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-03-15 18:13:52</sys_created_on>
+        <sys_id>b9afb3eedbb417404bbef9151d961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Instance of banner</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Idea Portal">4da17b35db9fc70094407f6bbf961985</sys_scope>
+        <sys_update_name>sys_wizard_answer_b9afb3eedbb417404bbef9151d961935</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-03-15 18:13:52</sys_updated_on>
+        <table/>
+        <target_url>x_snc_idea_portal_instance_of_banner.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
